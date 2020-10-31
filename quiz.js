@@ -1,23 +1,23 @@
 (function() {
   var questions = [{
-    question: "Which number is in the ones place 9,873?",
-    choices: [1, 3, 6, 15, 20],
+    question: "Which number is in the ones place? 9,873",
+    choices: [1, 3, 6, 15],
     correctAnswer: 2
   }, {
-    question: "What is 3*6?",
-    choices: [3, 6, 9, 12, 18],
+    question: "What number is in the hundreds place? 5,843",
+    choices: [5, 3, 4, 8],
     correctAnswer: 4
   }, {
-    question: "What is 8*9?",
-    choices: [72, 99, 108, 134, 156],
-    correctAnswer: 0
+    question: "What number is in the tenth place? 6,012?",
+    choices: [0, 6, 1, 2],
+    correctAnswer: 1
   }, {
-    question: "What is 1*7?",
-    choices: [4, 5, 6, 7, 8],
+    question: "What number is in the thousands place? 6,942?",
+    choices: [4, 2, 6, 9],
     correctAnswer: 3
   }, {
-    question: "What is 8*8?",
-    choices: [20, 30, 40, 50, 64],
+    question: "What number is in the ten - thousnads place? 75,623",
+    choices: [6, 3, 5, 7],
     correctAnswer: 4
   }];
   
