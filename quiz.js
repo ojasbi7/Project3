@@ -1,7 +1,7 @@
 (function() {
   var questions = [{
-    question: "Where is the digit 9? 8,093",
-    choices: [Ones, Tens, Hundreds, 15, 20],
+    question: "Where is the digit 9?",
+    choices: [1, 3, 6, 15, 20],
     correctAnswer: 2
   }, {
     question: "What is 3*6?",
