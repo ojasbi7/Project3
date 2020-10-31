@@ -1,6 +1,6 @@
 (function() {
   var questions = [{
-    question: "Where is the digit 9?",
+    question: "Which number is in the ones place 9,873?",
     choices: [1, 3, 6, 15, 20],
     correctAnswer: 2
   }, {
