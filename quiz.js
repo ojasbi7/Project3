@@ -1,7 +1,7 @@
 (function() {
   var questions = [{
-    question: "What is 2*5?",
-    choices: [2, 5, 10, 15, 20],
+    question: "Where is the digit 9? 8,093",
+    choices: [Ones, Tens, Hundreds, 15, 20],
     correctAnswer: 2
   }, {
     question: "What is 3*6?",
@@ -21,9 +21,9 @@
     correctAnswer: 4
   }];
   
-  var questionCounter = 0; //Tracks question number
-  var selections = []; //Array containing user choices
-  var quiz = $('#quiz'); //Quiz div object
+  var questionCounter = 0; 
+  var selections = []; 
+  var quiz = $('#quiz'); 
   
   // Display initial question
   displayNext();
