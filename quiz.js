@@ -2,23 +2,23 @@
   var questions = [{
     question: "Which number is in the ones place? 9,873",
     choices: [7, 3, 8, 9],
-    correctAnswer: 3
+    correctAnswer: 1
   }, {
     question: "What number is in the hundreds place? 5,843",
     choices: [5, 3, 4, 8],
-    correctAnswer: 8
+    correctAnswer: 3
   }, {
     question: "What number is in the tenth place? 6,012?",
     choices: [0, 6, 1, 2],
-    correctAnswer: 1
+    correctAnswer: 2
   }, {
     question: "What number is in the thousands place? 6,942?",
     choices: [4, 2, 6, 9],
-    correctAnswer: 6
+    correctAnswer: 2
   }, {
     question: "What number is in the ten - thousnads place? 75,623",
     choices: [6, 3, 5, 7],
-    correctAnswer: 7
+    correctAnswer: 3
   }];
   
   var questionCounter = 0; 
