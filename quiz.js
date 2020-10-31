@@ -1,7 +1,7 @@
 (function() {
   var questions = [{
     question: "Which number is in the ones place? 9,873",
-    choices: [1, 3, 6, 15],
+    choices: [7, 3, 8, 9],
     correctAnswer: 2
   }, {
     question: "What number is in the hundreds place? 5,843",
